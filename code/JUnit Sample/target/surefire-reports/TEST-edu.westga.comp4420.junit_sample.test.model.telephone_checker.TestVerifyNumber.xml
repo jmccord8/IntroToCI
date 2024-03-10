@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-19\bin"/>
-    <property name="sun.java.command" value="C:\Users\jorda\AppData\Local\Temp\surefire15297026666912847485\surefirebooter7958708942324414552.jar C:\Users\jorda\AppData\Local\Temp\surefire15297026666912847485 2024-03-10T17-28-01_605-jvmRun1 surefire2723767710383854722tmp surefire_012071884519333520536tmp"/>
+    <property name="sun.java.command" value="C:\Users\jorda\AppData\Local\Temp\surefire11789627571311738180\surefirebooter1621084052114312438.jar C:\Users\jorda\AppData\Local\Temp\surefire11789627571311738180 2024-03-10T17-35-13_702-jvmRun1 surefire8462558822436657247tmp surefire_012791677053384661244tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="B:\School Repo\IntroToCI\code\JUnit Sample\target\test-classes;B:\School Repo\IntroToCI\code\JUnit Sample\target\classes;C:\Users\jorda\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.1\junit-jupiter-api-5.5.1.jar;C:\Users\jorda\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\jorda\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\jorda\.m2\repository\org\junit\platform\junit-platform-commons\1.5.1\junit-platform-commons-1.5.1.jar;C:\Users\jorda\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.5.1\junit-jupiter-params-5.5.1.jar;C:\Users\jorda\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.1\junit-jupiter-engine-5.5.1.jar;C:\Users\jorda\.m2\repository\org\junit\platform\junit-platform-engine\1.5.1\junit-platform-engine-1.5.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\jorda\AppData\Local\Temp\surefire15297026666912847485\surefirebooter7958708942324414552.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\jorda\AppData\Local\Temp\surefire11789627571311738180\surefirebooter1621084052114312438.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="19.0.2+7-44"/>
@@ -61,10 +61,10 @@
   <testcase name="test{long, boolean}[1]" classname="edu.westga.comp4420.junit_sample.test.model.telephone_checker.TestVerifyNumber" time="0"/>
   <testcase name="test{long, boolean}[2]" classname="edu.westga.comp4420.junit_sample.test.model.telephone_checker.TestVerifyNumber" time="0"/>
   <testcase name="test{long, boolean}[3]" classname="edu.westga.comp4420.junit_sample.test.model.telephone_checker.TestVerifyNumber" time="0"/>
-  <testcase name="test{long, boolean}[4]" classname="edu.westga.comp4420.junit_sample.test.model.telephone_checker.TestVerifyNumber" time="0"/>
+  <testcase name="test{long, boolean}[4]" classname="edu.westga.comp4420.junit_sample.test.model.telephone_checker.TestVerifyNumber" time="0.001"/>
   <testcase name="test{long, boolean}[5]" classname="edu.westga.comp4420.junit_sample.test.model.telephone_checker.TestVerifyNumber" time="0"/>
   <testcase name="test{long, boolean}[6]" classname="edu.westga.comp4420.junit_sample.test.model.telephone_checker.TestVerifyNumber" time="0"/>
-  <testcase name="test{long, boolean}[7]" classname="edu.westga.comp4420.junit_sample.test.model.telephone_checker.TestVerifyNumber" time="0"/>
+  <testcase name="test{long, boolean}[7]" classname="edu.westga.comp4420.junit_sample.test.model.telephone_checker.TestVerifyNumber" time="0.001"/>
   <testcase name="test{long, boolean}[8]" classname="edu.westga.comp4420.junit_sample.test.model.telephone_checker.TestVerifyNumber" time="0.001"/>
-  <testcase name="testInvalidNumbers{long}[1]" classname="edu.westga.comp4420.junit_sample.test.model.telephone_checker.TestVerifyNumber" time="0.002"/>
+  <testcase name="testInvalidNumbers{long}[1]" classname="edu.westga.comp4420.junit_sample.test.model.telephone_checker.TestVerifyNumber" time="0.003"/>
 </testsuite>
