@@ -1,2 +1,7 @@
 # IntroToCI
-Activity 6 - Intro to CI with Github
+
+<h2>Author:</h2> 
+Jordan McCord
+
+<h2>Description:</h2>
+An introduction project to learning CI with Github
