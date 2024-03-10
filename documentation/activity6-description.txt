@@ -1,0 +1,11 @@
+Your task in this activtiy is to setup CI checks and a Branch Ruleset for a new Github repos using the provided sample project.
+ 
+You must
+Setup a repos including the sample project
+Setup CI pipeline that will ensure the mvn verify command succeeds for the project whenever a pull or push is made for the main branch
+Update system implementation to ensure the CI pipeline passes
+Create a release branch
+Setup a branch protection rule that will require changes be made to release via a pull request with one review required AND that all CI checks defined in the earlier step are passing
+Create a PR from main to release (should show an error due to lacking a review)
+ 
+NOTE - You will not be able to complete the PR on your repos, because you are not allowed to review your own PR. This is the intended end point for the activity.
